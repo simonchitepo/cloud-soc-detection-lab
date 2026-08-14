@@ -1,5 +1,0 @@
-﻿logs/raw/*
-logs/samples/*
-!logs/raw/.gitkeep
-!logs/samples/.gitkeep
-*.evtx
